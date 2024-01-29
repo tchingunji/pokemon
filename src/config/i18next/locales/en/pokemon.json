@@ -1,0 +1,12 @@
+{
+  "label": {
+    "name": "Name",
+    "url": "Location",
+    "list": "List",
+    "img": "Image"
+  },
+  "notification": {
+    "errorTitle": "Error while trying to fetch pokemon list",
+    "errorTitleDetails": "Error while trying to fetch pokemon data"
+  }
+}

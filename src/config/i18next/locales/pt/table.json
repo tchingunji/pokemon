@@ -1,0 +1,12 @@
+{
+  "showing": "Mostrando ",
+  "resultTotal": " Resultados ",
+  "occurrence": " Oucorrências",
+  "export": "Exportar",
+  "empty": "Vazio",
+  "loadMore": "Carregar mais",
+  "exportDataError": "Erro ao exportar dados",
+  "editColumns": "Editar colunas",
+  "getFiltersError": "Erro ao tentar buscar filtros",
+  "save": "Salvar"
+}

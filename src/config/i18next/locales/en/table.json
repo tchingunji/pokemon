@@ -1,0 +1,12 @@
+{
+  "showing": "Showing ",
+  "resultTotal": "Result ",
+  "occurrence": "Occurrence",
+  "export": "Export",
+  "empty": "Empty",
+  "loadMore": "Load more",
+  "editColumns": "Edit columns",
+  "exportDataError": "Error while trying to export data",
+  "getFiltersError": "Error while trying to get filters",
+  "save": "Save"
+}

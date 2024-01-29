@@ -1,0 +1,12 @@
+{
+  "label": {
+    "name": "Nome",
+    "url": "Localização",
+    "list": "Listagem",
+    "img": "Imagem"
+  },
+  "notification": {
+    "errorTitle": "Erro enquanto ao tentar pegar a listagem de pokemons",
+    "errorTitleDetails": "Erro enquanto ao tentar pegar os detalhes do pokemons"
+  }
+}
